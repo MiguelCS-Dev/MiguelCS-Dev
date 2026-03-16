@@ -2,12 +2,9 @@
 
 <h1 align="center">
 <b>Hola, soy Miguel Cordoba</b>
-<img src="https://via.placeholder.com/35" width="35">
 </h1>
 
 
-
-<br>
 
 ---
 
