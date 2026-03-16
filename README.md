@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-<b>Hola, soy Miguel Cordoba</b>
+<b>Hola!, soy Miguel Cordoba Sanchez</b>
 </h1>
 
 
