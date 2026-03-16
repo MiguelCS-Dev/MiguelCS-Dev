@@ -1,23 +1,17 @@
-<!-- HEADER -->
+
 
 <h1 align="center">
 <b>Hola, soy Miguel Cordoba</b>
 <img src="https://via.placeholder.com/35" width="35">
 </h1>
 
-<p align="center">
-<!-- Puedes cambiar o editar este texto animado -->
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=25&duration=4000&color=00FFFF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+de+Software;Desarrollador+Web+%2F+Backend;Angular+%7C+Node.js+%7C+Spring;Siempre+aprendiendo+nuevas+tecnologías" />
-</p>
+
 
 <br>
 
 ---
 
 # 👨‍💻 Sobre mí
-
-<!-- Imagen opcional a la derecha -->
-<img align="right" src="https://via.placeholder.com/250" width="250"/>
 
 - 🎓 Estudiante de Ingeniería de Software  
 - 💻 Interesado en el desarrollo web y backend  
@@ -66,7 +60,7 @@
 
 <div align="center">
 
-<!-- Cambia TU_USUARIO por tu username de GitHub -->
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=SoftCell33&show_icons=true&theme=tokyonight" width="450"/>
 
@@ -78,7 +72,7 @@
 
 # 🔗 Conecta conmigo
 
-<!-- Cambia los links -->
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-cordoba/)
 
@@ -88,8 +82,6 @@
 
 ---
 
-<!-- FOOTER -->
 
-<p align="center">
-<img src="https://via.placeholder.com/600x5">
-</p>
+
+
