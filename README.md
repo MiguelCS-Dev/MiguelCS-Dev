@@ -1,35 +1,37 @@
+<!-- HEADER -->
+
 <h1 align="center">
 <b>Hola, soy Miguel Cordoba</b>
 <img src="https://via.placeholder.com/35" width="35">
 </h1>
 
 <p align="center">
-<!-- Puedes cambiar este texto animado o eliminarlo -->
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=25&duration=4000&color=00FFFF&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+%2F+Web+Developer;Angular+%7C+Node.js+%7C+Spring;Always+learning+new+technologies" />
+<!-- Puedes cambiar o editar este texto animado -->
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&size=25&duration=4000&color=00FFFF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+de+Software;Desarrollador+Web+%2F+Backend;Angular+%7C+Node.js+%7C+Spring;Siempre+aprendiendo+nuevas+tecnologías" />
 </p>
 
 <br>
 
 ---
 
-# 👨‍💻 About Me
+# 👨‍💻 Sobre mí
 
 <!-- Imagen opcional a la derecha -->
 <img align="right" src="https://via.placeholder.com/250" width="250"/>
 
-- 🎓 Software Engineering student
-- 💻 Interested in web and backend development
-- 🌱 Currently improving my skills in modern web technologies
-- 🧠 Always learning and building new projects
-- 📂 Check out my repositories to see what I'm working on
+- 🎓 Estudiante de Ingeniería de Software  
+- 💻 Interesado en el desarrollo web y backend  
+- 🌱 Actualmente mejorando mis habilidades en tecnologías web modernas  
+- 🧠 Siempre aprendiendo y desarrollando nuevos proyectos  
+- 📂 Puedes ver mis proyectos en mis repositorios de GitHub  
 
 <br><br>
 
 ---
 
-# 🛠 Skills
+# 🛠 Tecnologías y herramientas
 
-## Languages
+## Lenguajes
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
@@ -52,7 +54,7 @@
 
 ---
 
-## Tools
+## Herramientas
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
@@ -60,29 +62,29 @@
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Estadísticas de GitHub
 
 <div align="center">
 
-<!-- Cambia TU_USUARIO por tu username -->
+<!-- Cambia TU_USUARIO por tu username de GitHub -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=SoftCell33&show_icons=true&theme=tokyonight" width="450"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftCell33&layout=compact&theme=tokyonight" width="350"/>
 
 </div>
 
 ---
 
-# 🔗 Connect With Me
+# 🔗 Conecta conmigo
 
 <!-- Cambia los links -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](LINK_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-cordoba/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/TU_USUARIO)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SoftCell33)
 
-[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:TU_EMAIL)
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:miguel.cordoba.soft@gmail.com)
 
 ---
 
