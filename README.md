@@ -16,7 +16,6 @@
 - 🧠 Siempre aprendiendo y desarrollando nuevos proyectos  
 - 📂 Puedes ver mis proyectos en mis repositorios de GitHub  
 
-<br><br>
 
 ---
 
