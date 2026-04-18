@@ -58,9 +58,9 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=SoftCell33&show_icons=true&theme=tokyonight" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MiguelCS-Dev&show_icons=true&theme=tokyonight" width="450"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoftCell33&layout=compact&theme=tokyonight" width="350"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCS-Dev&layout=compact&theme=tokyonight" width="350"/>
 
 </div>
 
@@ -72,7 +72,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguel-cordoba/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/SoftCell33)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/MiguelCS-Dev)
 
 [![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail)](mailto:miguel.cordoba.soft@gmail.com)
 
