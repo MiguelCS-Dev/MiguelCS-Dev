@@ -26,6 +26,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![Java](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)
+![Dart](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)
 
 ---
 
@@ -44,10 +45,15 @@
 
 ---
 
+## Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter)
+
 ## Herramientas
 
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
 ![VSCode](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=visualstudiocode)
 
 ---
